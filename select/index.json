@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Wake Up, Get Up, Get Out There -opening movie version-",
+  "base_artist": "Lyn",
+  "createdAt": "2025-12-25T14:14:16.838280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -Opening Movie Version-",
+      "artist": "目黒将司",
+      "has_synced": true,
+      "path": "select/01_Wake_Up,_Get_Up,_Get_Out_There_-Opening_Movie_Version-_目黒将司.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/02_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_Various.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There - opening movie version",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/03_Wake_Up,_Get_Up,_Get_Out_There_-_opening_movie_version_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "稲泉りん",
+      "has_synced": true,
+      "path": "select/04_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_稲泉りん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There ‐opening movie version‐",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/05_Wake_Up,_Get_Up,_Get_Out_There_‐opening_movie_version‐_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "ATLUS",
+      "has_synced": true,
+      "path": "select/06_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_ATLUS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -Opening Movie Version-",
+      "artist": "Shoji Meguro",
+      "has_synced": true,
+      "path": "select/07_Wake_Up,_Get_Up,_Get_Out_There_-Opening_Movie_Version-_Shoji_Meguro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/08_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There (Opening Movie Version)",
+      "artist": "目黒将司",
+      "has_synced": true,
+      "path": "select/09_Wake_Up,_Get_Up,_Get_Out_There_(Opening_Movie_Version)_目黒将司.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "目黒将司",
+      "has_synced": true,
+      "path": "select/10_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_目黒将司.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -Opening Movie Version-",
+      "artist": "Persona 5",
+      "has_synced": true,
+      "path": "select/11_Wake_Up,_Get_Up,_Get_Out_There_-Opening_Movie_Version-_Persona_5.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There (Opening Movie Version)",
+      "artist": "稲泉りん",
+      "has_synced": true,
+      "path": "select/12_Wake_Up,_Get_Up,_Get_Out_There_(Opening_Movie_Version)_稲泉りん.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "Lyn Inaizumi",
+      "has_synced": true,
+      "path": "select/13_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_Lyn_Inaizumi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -Opening Movie Version-",
+      "artist": "Shoji Meguro",
+      "has_synced": true,
+      "path": "select/14_Wake_Up,_Get_Up,_Get_Out_There_-Opening_Movie_Version-_Shoji_Meguro.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There (Opening Movie Version)",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/15_Wake_Up,_Get_Up,_Get_Out_There_(Opening_Movie_Version)_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "Lyn Inaizumi",
+      "has_synced": true,
+      "path": "select/16_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_Lyn_Inaizumi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There -opening movie version-",
+      "artist": "目黒 将司",
+      "has_synced": true,
+      "path": "select/17_Wake_Up,_Get_Up,_Get_Out_There_-opening_movie_version-_目黒_将司.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wake Up, Get Up, Get Out There (Opening Movie Version)",
+      "artist": "Atlus",
+      "has_synced": true,
+      "path": "select/18_Wake_Up,_Get_Up,_Get_Out_There_(Opening_Movie_Version)_Atlus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wake Up, Get Up, Get Out There",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Wake_Up,_Get_Up,_Get_Out_There_Lyn.txt"
+    }
+  ]
+}
